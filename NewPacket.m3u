@@ -2,9 +2,9 @@
 #EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=q40R6r-s6JxUfE3pWc_ejQ&e=2080556500&scheme=https
-#EXTINF:0 tvg-rec="7",Россия 1 HD
-#EXTGRP:Общие
-http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/205/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png", Россия 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/fSkn4lmEi6Txn1JW9WBvhA,1780642819/streaming/rossia1ott/324/5/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Rutube (VPN)",НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=VEKgOM2ZFFga-UT0RgwuAQ&e=2080556501&scheme=https
@@ -35,7 +35,8 @@ http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/744/index.m3u8
 #EXTINF:0 tvg-rec="7",КВН ТВ
 #EXTGRP:Общие
 http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/546/index.m3u8
-
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 
 
 
@@ -73,7 +74,9 @@ http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/18027/index.m3u8
 
 
 
-
+#EXTINF:0 tvg-rec="7",Россия 1 HD
+#EXTGRP:Общие
+http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/205/index.m3u8
 #EXTINF:0 tvg-rec="3",Киноужас HD
 #EXTGRP:Кино
 http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/2056/index.m3u8
@@ -87,6 +90,8 @@ http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/2436/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал HD
 #EXTGRP:Общие
 http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/204/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)", Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ HD
 #EXTGRP:Общие
 http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/213/index.m3u8
