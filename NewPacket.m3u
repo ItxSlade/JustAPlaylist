@@ -20,6 +20,24 @@ https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=FW
 #EXTINF:0 tvg-rec="3",ТВ-3 HD
 #EXTGRP:Общие
 http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/5033/index.m3u8
+#EXTINF:0 tvg-rec="7",Дом Кино Премиум HD
+#EXTGRP:Кино
+http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/911/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино ТВ HD
+#EXTGRP:Кино
+http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/2097/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Хит
+#EXTGRP:Кино
+http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/741/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Сериал
+#EXTGRP:Кино
+http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/744/index.m3u8
+#EXTINF:0 tvg-rec="7",КВН ТВ
+#EXTGRP:Общие
+http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/546/index.m3u8
+
+
+
 
 #EXTINF:0 tvg-rec="3",LTV1 FHD LV
 #EXTGRP:Латвия | Latvia
@@ -51,6 +69,21 @@ http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/18026/index.m3u8
 #EXTINF:0 tvg-rec="0",TV6 LV
 #EXTGRP:Латвия | Latvia
 http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/18027/index.m3u8
+
+
+
+
+
+#EXTINF:0 tvg-rec="3",Киноужас HD
+#EXTGRP:Кино
+http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/2056/index.m3u8
+#EXTINF:0 tvg-rec="3",Камеди HD
+#EXTGRP:Кино
+http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/2441/index.m3u8
+#EXTINF:0 tvg-rec="3",Блокбастер HD
+#EXTGRP:Кино
+http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/2436/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Первый канал HD
 #EXTGRP:Общие
 http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/204/index.m3u8
@@ -63,6 +96,27 @@ http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/15116/index.m3u8
 #EXTINF:0 tvg-rec="7",Пятница!
 #EXTGRP:Общие
 http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/503/index.m3u8
+
+
+
+#EXTINF:0 tvg-rec="7",Nickelodeon HD
+#EXTGRP:Детские
+http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/223/index.m3u8
+#EXTINF:0 tvg-rec="7",Cartoon Network HD
+#EXTGRP:Детские
+http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/143/index.m3u8
+#EXTINF:0 tvg-rec="7",Карусель
+#EXTGRP:Детские
+http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/156/index.m3u8
+#EXTINF:0 tvg-rec="7",В гостях у сказки
+#EXTGRP:Детские
+http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/737/index.m3u8
+#EXTINF:0 tvg-rec="3",Смайл ТВ HD
+#EXTGRP:Детские
+http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/2157/index.m3u8
+
+
+
 #EXTINF:-1,Россия 24 Тамбов [1024x576]
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="NTVHD.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="General",НТВ HD
