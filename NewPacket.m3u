@@ -5,6 +5,8 @@ https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=q4
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png", Россия 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/fSkn4lmEi6Txn1JW9WBvhA,1780642819/streaming/rossia1ott/324/5/tracks-v5a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png", Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 group-title="Rutube (VPN)",НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=VEKgOM2ZFFga-UT0RgwuAQ&e=2080556501&scheme=https
@@ -35,8 +37,6 @@ http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/744/index.m3u8
 #EXTINF:0 tvg-rec="7",КВН ТВ
 #EXTGRP:Общие
 http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/546/index.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 
 
 
@@ -119,7 +119,18 @@ http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/737/index.m3u8
 #EXTINF:0 tvg-rec="3",Смайл ТВ HD
 #EXTGRP:Детские
 http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/2157/index.m3u8
-
+#EXTINF:0 tvg-rec="7",Cartoon Network HD
+#EXTGRP:Детские
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/143/index.m3u8
+#EXTINF:0 tvg-rec="7",Карусель
+#EXTGRP:Детские
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/156/index.m3u8
+#EXTINF:0 tvg-rec="7",NickToons HD
+#EXTGRP:Детские
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/849/index.m3u8
+#EXTINF:0 tvg-rec="3",Nickelodeon HD orig
+#EXTGRP:Детские
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/9015/index.m3u8
 
 
 #EXTINF:-1,Россия 24 Тамбов [1024x576]
