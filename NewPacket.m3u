@@ -2,9 +2,8 @@
 #EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=q40R6r-s6JxUfE3pWc_ejQ&e=2080556500&scheme=https
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png", Россия 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/fSkn4lmEi6Txn1JW9WBvhA,1780642819/streaming/rossia1ott/324/5/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:0 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png", Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 group-title="Rutube (VPN)",НТВ HD
