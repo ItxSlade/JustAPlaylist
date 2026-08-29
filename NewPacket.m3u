@@ -2,22 +2,94 @@
 #EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=q40R6r-s6JxUfE3pWc_ejQ&e=2080556500&scheme=https
-#EXTINF:-1 group-title="Российские",Россия 1
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:0 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png", Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 tvg-id="Россия 1 HD" group-title="Информационные"  tvg-logo="http://icon.ru-tv.site/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20+0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8152/video-${start}-${duration}.m3u8?token=44b4b42e08440fe85488c7f5abd17780" timeshift="14", Россия 1 HD
+http://live.ru-tv.site/8152/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Россия 24" group-title="Информационные"  tvg-logo="http://icon.ru-tv.site/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2024.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8125/video-${start}-${duration}.m3u8?token=44b4b42e08440fe85488c7f5abd17780" timeshift="14", Россия 24
+http://live.ru-tv.site/8125/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
 #EXTINF:-1 group-title="Rutube (VPN)",НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=VEKgOM2ZFFga-UT0RgwuAQ&e=2080556501&scheme=https
-#EXTINF:0 tvg-rec="7",СТС
-#EXTGRP:Общие
-http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/506/index.m3u8
+#EXTINF:-1 tvg-id="СТС" group-title="Развлекательные"  tvg-logo="http://icon.ru-tv.site/icon/%D0%A1%D0%A2%D0%A1%20+0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8005/video-${start}-${duration}.m3u8?token=44b4b42e08440fe85488c7f5abd17780" timeshift="14", СТС
+http://live.ru-tv.site/8005/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
 #EXTINF:-1 group-title="Rutube (VPN)",ТНТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=79yTlQQFl75zut7nHeoDJA&e=2080556501&scheme=https
+#EXTINF:-1 tvg-id="СТС" group-title="Развлекательные"  tvg-logo="http://icon.ru-tv.site/icon/%D0%A1%D0%A2%D0%A1%20+0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8005/video-${start}-${duration}.m3u8?token=44b4b42e08440fe85488c7f5abd17780" timeshift="14", СТС
+http://live.ru-tv.site/8005/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
 #EXTINF:-1 group-title="Rutube (VPN)",Звезда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=FWM3pFUZ7jDnHYAuWYVruQ&e=2080556519&scheme=https
+#EXTINF:-1 tvg-id="ОТР" group-title="Информационные"  tvg-logo="http://icon.ru-tv.site/icon/%D0%9E%D0%A2%D0%A0.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8146/video-${start}-${duration}.m3u8?token=44b4b42e08440fe85488c7f5abd17780" timeshift="14", ОТР
+http://live.ru-tv.site/8146/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Пятый канал" group-title="Информационные"  tvg-logo="http://icon.ru-tv.site/icon/5%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%20+0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8009/video-${start}-${duration}.m3u8?token=44b4b42e08440fe85488c7f5abd17780" timeshift="14", Пятый канал
+http://live.ru-tv.site/8009/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="ТВ3" group-title="Развлекательные"  tvg-logo="http://icon.ru-tv.site/icon/%D0%A2%D0%923%20+0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8114/video-${start}-${duration}.m3u8?token=44b4b42e08440fe85488c7f5abd17780" timeshift="14", ТВ3
+http://live.ru-tv.site/8114/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Перец International" group-title="Развлекательные"  tvg-logo="http://icon.ru-tv.site/icon/%D0%9F%D0%B5%D1%80%D0%B5%D1%86%20International.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8640/video-${start}-${duration}.m3u8?token=44b4b42e08440fe85488c7f5abd17780" timeshift="14", Перец International
+http://live.ru-tv.site/8640/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Приключения HD" group-title="Развлекательные"  tvg-logo="http://icon.ru-tv.site/icon/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8649/video-${start}-${duration}.m3u8?token=44b4b42e08440fe85488c7f5abd17780" timeshift="7", Приключения HD
+http://live.ru-tv.site/8649/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Здоровое ТВ" group-title="Познавательные"  tvg-logo="http://icon.ru-tv.site/icon/%D0%97%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%A2%D0%92%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8127/video-${start}-${duration}.m3u8?token=44b4b42e08440fe85488c7f5abd17780" timeshift="7", Здоровое ТВ
+http://live.ru-tv.site/8127/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Суббота!" group-title="Развлекательные"  tvg-logo="http://icon.ru-tv.site/icon/%D0%A1%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%B0%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8360/video-${start}-${duration}.m3u8?token=44b4b42e08440fe85488c7f5abd17780" timeshift="7", Суббота!
+http://live.ru-tv.site/8360/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+
+
+
+
+
+#EXTINF:-1 tvg-id="8TV LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/8%20TV%20HD%20LV.png" catchup-days="0", 8TV LV
+http://live.ru-tv.site/8695/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="LTV1 LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/LTV1%20LV.png" catchup-days="0", LTV1 LV
+http://live.ru-tv.site/8408/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="LTV7 HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/LTV7%20HD%20LV.png" catchup-days="0", LTV7 HD LV
+http://live.ru-tv.site/9005/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="TV3 HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/TV3%20EE.png" catchup-days="0", TV3 HD LV
+http://live.ru-tv.site/9014/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="3+ LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/TV3%20Plus%20HD%20LT.png" catchup-days="0", 3+ LV
+http://live.ru-tv.site/8776/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="TV3 life LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/TV3%20Life%20LV.png" catchup-days="0", TV3 life LV
+http://live.ru-tv.site/8389/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="TV3 mini LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/TV3%20Mini%20HD%20LV.png" catchup-days="0", TV3 mini LV
+http://live.ru-tv.site/8897/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="TV4 HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/TV4%20HD%20LV.png" catchup-days="0", TV4 HD LV
+http://live.ru-tv.site/9015/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="TV6 LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/TV6%20LT.png" catchup-days="0", TV6 LV
+http://live.ru-tv.site/8490/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Go3 Films HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/Go3%20Films%20HD.png" catchup-days="0", Go3 Films HD LV
+http://live.ru-tv.site/8995/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Duo 3 HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/Duo3%20HD%20EE.png" catchup-days="0", Duo 3 HD LV
+http://live.ru-tv.site/8749/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Duo 5 HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/Duo%205.png" catchup-days="0", Duo 5 HD LV
+http://live.ru-tv.site/8754/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Duo 6 HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/Duo%206.png" catchup-days="0", Duo 6 HD LV
+http://live.ru-tv.site/8756/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Epic Drama HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/Epic%20Drama%20RO.png" catchup-days="0", Epic Drama HD LV
+http://live.ru-tv.site/8757/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Filmzone HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/Filmzone%20HD.png" catchup-days="0", Filmzone HD LV
+http://live.ru-tv.site/8758/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Re:TV HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/Re%20TV%20LV.png" catchup-days="0", Re:TV HD LV
+http://live.ru-tv.site/9010/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="STV Pirmā! HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/STV%20HD%20LV.png" catchup-days="0", STV Pirmā! HD LV
+http://live.ru-tv.site/9011/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Latvijas Šlāgerkanāls HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/Latvijas%20Slagerkanals%20HD.png" catchup-days="0", Latvijas Šlāgerkanāls HD LV
+http://live.ru-tv.site/9004/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Super Baltic HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/Super%20Baltic%20HD.png" catchup-days="0", Super Baltic HD LV
+http://live.ru-tv.site/9012/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Super+ HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/Super+%20HD.png" catchup-days="0", Super+ HD LV
+http://live.ru-tv.site/9013/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Filmzone+ HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/Filmzone%20Plus%20HD.png" catchup-days="0", Filmzone+ HD LV
+http://live.ru-tv.site/8759/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Viasat Kino HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/Viasat%20Kino%20HD.png" catchup-days="0", Viasat Kino HD LV
+http://live.ru-tv.site/9020/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Viasat Kino World HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/Viasat%20Kino%20World%20HD.png" catchup-days="0", Viasat Kino World HD LV
+http://live.ru-tv.site/9034/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Viasat Kino Comedy LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/Viasat%20Kino%20Comedy.png" catchup-days="0", Viasat Kino Comedy LV
+http://live.ru-tv.site/9019/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+#EXTINF:-1 tvg-id="Viasat Kino Action HD LV" group-title="Балтика"  tvg-logo="http://icon.ru-tv.site/icon/Viasat%20Kino%20Action%20HD.png" catchup-days="0", Viasat Kino Action HD LV
+http://live.ru-tv.site/9018/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
+
+
 #EXTINF:0 tvg-rec="3",ТВ-3 HD
 #EXTGRP:Общие
 http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/5033/index.m3u8
@@ -36,9 +108,6 @@ http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/744/index.m3u8
 #EXTINF:0 tvg-rec="7",КВН ТВ
 #EXTGRP:Общие
 http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/546/index.m3u8
-
-
-
 #EXTINF:0 tvg-rec="3",LTV1 FHD LV
 #EXTGRP:Латвия | Latvia
 http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/6353/index.m3u8
@@ -72,7 +141,8 @@ http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/18027/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="Россия 1 (+2)" group-title="Информационные"  tvg-logo="http://icon.ru-tv.site/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20+2%20(%D0%A3%D1%84%D0%B0).png" catchup-days="0", Россия 1 (+2)
+http://live.ru-tv.site/8426/video.m3u8?token=44b4b42e08440fe85488c7f5abd17780
 #EXTINF:0 tvg-rec="7",Россия 1 HD
 #EXTGRP:Общие
 http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/205/index.m3u8
@@ -85,7 +155,9 @@ http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/2441/index.m3u8
 #EXTINF:0 tvg-rec="3",Блокбастер HD
 #EXTGRP:Кино
 http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/2436/index.m3u8
-
+#EXTINF:0 tvg-rec="7",СТС
+#EXTGRP:Общие
+http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/506/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал HD
 #EXTGRP:Общие
 http://c4a6e3d3.megogo.xyz/iptv/YYFY93Y94C6R6GLXEKVZWN2P/204/index.m3u8
@@ -144,8 +216,8 @@ http://185.46.16.239:8000/STS
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png" group-title="Развлекательные",Твоё ТВ Юмор (HD)
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://i.imgur.com/gFMnaU5.png" group-title="Региональные",Волгоград 24 (HD)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1 ,Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 #EXTINF:-1 ,Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="2265" tvg-logo="http://epg.one/img2/2265.png" group-title="Общественные",360° (HD)
