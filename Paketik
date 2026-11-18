@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:0,Первый канал HD
+#EXTGRP:Rutube VPN
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=q40R6r-s6JxUfE3pWc_ejQ&e=2080556500&scheme=https
+#EXTINF:0,НТВ HD
+#EXTGRP:Rutube VPN
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=VEKgOM2ZFFga-UT0RgwuAQ&e=2080556501&scheme=https
+#EXTINF:0,ТНТ HD
+#EXTGRP:Rutube VPN
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=79yTlQQFl75zut7nHeoDJA&e=2080556501&scheme=https
+#EXTINF:0,Звезда
+#EXTGRP:Rutube VPN
+https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=FWM3pFUZ7jDnHYAuWYVruQ&e=2080556519&scheme=https
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Информационные
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+
+#EXTINF:0,СТС
+#EXTGRP:Развлекательные
+http://stream.mcquack.net/138/index.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:Развлекательные
+http://stream.mcquack.net/136/index.m3u8
+#EXTINF:0,Перец International
+#EXTGRP:Развлекательные
+http://stream.mcquack.net/121/index.m3u8
+#EXTINF:0,Приключения HD
+#EXTGRP:Развлекательные
+http://stream.mcquack.net/198/index.m3u8
+#EXTINF:0,Суббота!
+#EXTGRP:Развлекательные
+http://stream.mcquack.net/269/index.m3u8
+#EXTINF:0,Твоё ТВ (HD)
+#EXTGRP:Развлекательные
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:0,Твоё ТВ Юмор (HD)
+#EXTGRP:Развлекательные
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:0,Здоровое ТВ
+#EXTGRP:Познавательные
+https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+#EXTINF:0,Беларусь 24 (1080p)
+#EXTGRP:News
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:0,Звезда Плюс
+#EXTGRP:Undefined
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+
+#EXTINF:0,LTV1 LV
+#EXTGRP:Балтика
+http://stream.mcquack.net/34/index.m3u8
+#EXTINF:0,LTV7 HD LV
+#EXTGRP:Балтика
+http://stream.mcquack.net/371/index.m3u8
+#EXTINF:0,Go3 Sport LV
+#EXTGRP:Балтика
+http://stream.mcquack.net/416/index.m3u8
+#EXTINF:0,TV3 life LV
+#EXTGRP:Балтика
+http://stream.mcquack.net/373/index.m3u8
+#EXTINF:0,Re:TV HD LV
+#EXTGRP:Балтика
+https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
+
+
+
+
+
+#EXTINF:0,Детское кино Int (768×432)
+#EXTGRP:Детские
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,Мульт (HD)
+#EXTGRP:Детские
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+#EXTINF:0,Мультимания (SDTV 576i)
+#EXTGRP:Детские
+http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
+#EXTINF:0,Россия 24 Тамбов [1024x576]
+#EXTGRP:unsorted
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
+#EXTINF:0,Белгород 24
+#EXTGRP:unsorted
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:0,Первый канал HD
+#EXTGRP:unsorted
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:0,Ani (WSVGA)
+#EXTGRP:unsorted
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:General
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:0,РТР Планета Евро
+#EXTGRP:General
+https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
+#EXTINF:0,РТР Планета СНГ
+#EXTGRP:General
+https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+#EXTINF:0,Звезда (HD)
+#EXTGRP:Общественные
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0,360° (HD)
+#EXTGRP:Общественные
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:0,Беларусь 24 (HD)
+#EXTGRP:Общественные
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
+#EXTINF:0,БелРос (WSVGA)
+#EXTGRP:Общественные
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:0,СТС
+#EXTGRP:Инет
+http://185.46.16.239:8000/STS
+
+#EXTINF:0,Карусель
+#EXTGRP:Kids
+https://streaming.skynetconnect.online/live/232.m3u8
+#EXTINF:0,Mult
+#EXTGRP:Kids
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:0,Carousel International
+#EXTGRP:Kids
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
